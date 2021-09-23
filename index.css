@@ -1,0 +1,17 @@
+
+
+.header {
+    text-align: center;
+}
+
+.header h3 {
+    font-weight: normal;
+}
+
+.ds img {
+    width: 50%;
+    border: 100 px blue;
+    margin: auto;
+}
+
+
